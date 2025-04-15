@@ -32,7 +32,7 @@ Backend: Node.js, Express.js, MongoDB, JWT
 Charts: @mui & Nivo Pie Chart
 
 🖼️ Screenshots
-![Dashboard Overview](mern_dashboard/client/public/Screenshot .PNG)
+![Dashboard Overview](https://github.com/RatulSen555/mern_dashboard/blob/main/client/public/Screenshot%20.PNG)
 
 ⚠️ Known Issue
 On hover, Pie Chart labels sometimes appear in white or fade out.
